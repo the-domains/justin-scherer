@@ -4,7 +4,7 @@
         <description><![CDATA[Justin Scherer]]></description>
         <link>https://thegrid.ai/justin-scherer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 22:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 22:53:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/justin-scherer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Case Study: MacLaren.com]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/justin-scherer/case-study-maclarencom/index.html</link>
             <guid isPermaLink="false">1eefee89-e478-4cf5-8a0f-78f3aad99724</guid>
             <pubDate>Fri, 15 Jan 2016 22:52:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Test]]></title>
-            <description><![CDATA[<article><h1>Test</h1><h2>Star Wars Ipsum</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5ee3c24f63074b813529a1b1fbc5928bf5ea8cb.png"></article>]]></description>
-            <link>https://thegrid.ai/justin-scherer/test/index.html</link>
-            <guid isPermaLink="false">367383f8-8e2c-4522-9e7c-61418ca73f60</guid>
-            <pubDate>Thu, 14 Jan 2016 22:15:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
