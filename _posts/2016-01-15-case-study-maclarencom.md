@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Canada's largest integrated marketing agency needed a new web presence. "
-datePublished: '2016-01-15T22:52:30.983Z'
+datePublished: '2016-01-15T22:52:31.078Z'
 dateModified: '2016-01-15T22:52:14.359Z'
 title: "Case Study:\_MacLaren.com"
 author: []
