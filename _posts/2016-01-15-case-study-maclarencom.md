@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Canada's largest integrated marketing agency needed a new web presence. "
-datePublished: '2016-01-15T22:51:15.974Z'
-dateModified: '2016-01-15T22:51:04.553Z'
+datePublished: '2016-01-15T22:52:30.809Z'
+dateModified: '2016-01-15T22:52:14.359Z'
 title: "Case Study:\_MacLaren.com"
 author: []
+sourcePath: _posts/2016-01-15-case-study-maclarencom.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-case-study-maclarencom.md
-published: true
 url: case-study-maclarencom/index.html
 _type: Article
 
