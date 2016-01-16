@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T04:36:13.155Z'
-dateModified: '2016-01-16T04:36:10.518Z'
+datePublished: '2016-01-16T04:37:16.413Z'
+dateModified: '2016-01-16T04:37:14.139Z'
 title: "Case Study:\_MacLaren.com"
 author: []
 sourcePath: _posts/2016-01-16-case-study-maclarencom.md
@@ -42,8 +42,7 @@ We started by spending a LOT of time looking at the portfolio sites of digital a
 ## Solution:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44f181b9-a52e-4023-b31b-ffb7b20aa29c.jpg)
 
-We wanted to encourage contextual exploration of the agency's work, so we used massive, attention-grabbing stills and video content (the auto-play wasn't my idea, I swear) so that casual browsers' would instinctively ignore the chrome of the site and dive into the agency's work. They get pulled in, but the navigation is still succinct and intuitive enough so that, if someone is looking for something specific, they'll be able to find it. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/460a109253d15b56a8147a631dc6afb7a19fd473.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78174f62-57f7-4e5a-b9bc-25b9c9443fa5.jpg)
+We wanted to encourage contextual exploration of the agency's work, so we used massive, attention-grabbing stills and video content (the auto-play wasn't my idea, I swear) so that casual browsers' would instinctively ignore the chrome of the site and dive into the agency's work. They get pulled in, but the navigation is still succinct and intuitive enough so that, if someone is looking for something specific, they'll be able to find it. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78174f62-57f7-4e5a-b9bc-25b9c9443fa5.jpg)
 
 We created a second-level of navigation based on location to serve the agency's Toronto, Vancouver, and Calgary offices, which often need location-specific galleries for regional pitches.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c484ed35-cb04-4266-a96a-e6957300dc37.jpg)
