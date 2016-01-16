@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T04:37:16.496Z'
+datePublished: '2016-01-16T04:37:16.679Z'
 dateModified: '2016-01-16T04:37:14.139Z'
 title: "Case Study:\_MacLaren.com"
 author: []
