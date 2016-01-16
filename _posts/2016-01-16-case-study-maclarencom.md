@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T03:51:19.674Z'
-dateModified: '2016-01-16T03:51:08.226Z'
+datePublished: '2016-01-16T04:14:37.298Z'
+dateModified: '2016-01-16T04:11:00.217Z'
 title: "Case Study:\_MacLaren.com"
 author: []
+sourcePath: _posts/2016-01-16-case-study-maclarencom.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-16-case-study-maclarencom.md
-published: true
 url: case-study-maclarencom/index.html
 _type: Article
 
@@ -33,7 +33,7 @@ We had to create a unified web presence from scratch for the biggest integrated 
 
 The site had to represent the best work and capabilities of dozens of divisions, which were all centrally managed but independently operated and located all over the country in three regional offices. Also, it had to be responsive. No big deal, right?
 
-## Approach: ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81985075-f62d-4646-a98f-2b54a2c42a48.gif)
+## Approach: ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ac4af1ad73f176b1846beead86b14184fafe025.gif)
 
 Getting buy in from so many people meant that the design work we did had to be constantly visible and open for critique at any time. We used big foam core boards and the walls of the office to post up sketches, competitive audits, and paste-up comps and creative concepts. The project war room was a revolving door of stakeholders. Anyone, from a junior art director to the CEO could walk in at any moment. 
 
@@ -42,13 +42,14 @@ We started by  spending a LOT of time looking at the portfolio sites of digital 
 ## Solution:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44f181b9-a52e-4023-b31b-ffb7b20aa29c.jpg)
 
-We wanted to encourage contextual exploration of the work, so we used massive, attention-grabbing stills and video content (the auto-play wasn't my idea, I swear) so that casual browsers' would instinctively ignore the chrome of the site and dive into the agency's work. They get pulled in, but the navigation is still succinct and intuitive enough so that, if someone is looking for something specific, they'll be able to find it. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/780239c0-a881-4105-839a-80868f2a9054.jpg)
+We wanted to encourage contextual exploration of the work, so we used massive, attention-grabbing stills and video content (the auto-play wasn't my idea, I swear) so that casual browsers' would instinctively ignore the chrome of the site and dive into the agency's work. They get pulled in, but the navigation is still succinct and intuitive enough so that, if someone is looking for something specific, they'll be able to find it. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a510f5e2878198be252327e1c6060337d40d9149.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78174f62-57f7-4e5a-b9bc-25b9c9443fa5.jpg)
 
 We created a second-level of navigation based on location to serve the agency's Toronto, Vancouver, and Calgary, which often need location-specific galleries for regional pitches.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c484ed35-cb04-4266-a96a-e6957300dc37.jpg)
 
-We refreshed a nearly century-old agency brand with a circular, inclusive motif that emphasizes unity between the agency's divisions, offices, and outlook. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac8882c4-f0a4-430d-bd47-4a712f2ea6f5.jpg)
+We refreshed a nearly century-old agency brand with a circular, inclusive motif that emphasizes unity between the agency's divisions, offices, and outlook.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac8882c4-f0a4-430d-bd47-4a712f2ea6f5.jpg)
 
 The core of the experience lies in campaign-specific case studies where we showcased the quality of creative work alongside the results the campaign generated.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c1efbae-5b0b-4d73-a2c1-4d56ac37122d.jpg)
