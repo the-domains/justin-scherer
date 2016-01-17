@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T16:51:24.075Z'
-dateModified: '2016-01-17T16:51:14.115Z'
+datePublished: '2016-01-17T16:53:02.501Z'
+dateModified: '2016-01-17T16:53:00.339Z'
 title: About Justin
 author: []
+sourcePath: _posts/2016-01-17-about-justin.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-17-about-justin.md
-published: true
 url: about-justin/index.html
 _type: Article
 
