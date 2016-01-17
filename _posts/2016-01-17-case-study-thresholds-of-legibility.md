@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:24:48.653Z'
-dateModified: '2016-01-17T13:23:39.361Z'
+datePublished: '2016-01-17T13:25:41.625Z'
+dateModified: '2016-01-17T13:25:37.079Z'
 title: 'Case Study: Thresholds of Legibility'
 author: []
+sourcePath: _posts/2016-01-17-case-study-thresholds-of-legibility.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-17-case-study-thresholds-of-legibility.md
-published: true
 url: case-study-thresholds-of-legibility/index.html
 _type: Article
 
