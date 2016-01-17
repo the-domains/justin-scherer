@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:25:41.625Z'
-dateModified: '2016-01-17T13:25:37.079Z'
+datePublished: '2016-01-17T13:33:17.996Z'
+dateModified: '2016-01-17T13:33:15.762Z'
 title: 'Case Study: Thresholds of Legibility'
 author: []
 sourcePath: _posts/2016-01-17-case-study-thresholds-of-legibility.md
@@ -22,17 +22,15 @@ url: case-study-thresholds-of-legibility/index.html
 _type: Article
 
 ---
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cefbca82-33c9-4fbb-b69f-ef99a0841044.jpg)
+# 
 
 # Case Study: Thresholds of Legibility
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01164d17-eb5b-4e1f-9aa8-456c62c36234.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cefbca82-33c9-4fbb-b69f-ef99a0841044.jpg)
 
 _Thresholds of Legibility_ was a practice-based research project in the form of a digitally mediated surveillance theatre performance at the Luella Massey Studio Theatre in Toronto. It was funded by the _Social Sciences and Humanities Research Council of Canada_. I co-created the piece with 6 other collaborators and designed a dispersed, Arduino-controlled sensor network for the project.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e0a5717-a12c-4ed5-957b-b90ea82d3945.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01164d17-eb5b-4e1f-9aa8-456c62c36234.jpg)
 
-(dude with screen)
-
-From the outset, the project was extremely ambitious. A group of 7 collaborators who had never worked together before were to co-create a digitally mediated surveillance performance in only a few weeks. 
+From the outset, the project was extremely ambitious. A group of 7 collaborators who had never worked together before were to co-create a digitally mediated surveillance performance in only a few weeks. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e0a5717-a12c-4ed5-957b-b90ea82d3945.jpg)
 
 According to the project's director:
 
