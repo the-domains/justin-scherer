@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T04:37:18.427Z'
-dateModified: '2016-01-16T04:37:16.689Z'
+datePublished: '2016-01-16T19:18:46.636Z'
+dateModified: '2016-01-16T16:37:50.155Z'
 title: "Case Study:\_MacLaren.com"
 author: []
 sourcePath: _posts/2016-01-16-case-study-maclarencom.md
@@ -22,8 +22,9 @@ url: case-study-maclarencom/index.html
 _type: Article
 
 ---
-# Case Study: MacLaren.com
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c61b59f-aa8c-42fe-b993-363767c83caf.jpg)
+
+# Case Study: MacLaren.com
 
 ## The challenge: 
 
