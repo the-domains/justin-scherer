@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:32:27.178Z'
-dateModified: '2016-01-17T13:32:25.147Z'
+datePublished: '2016-01-17T13:48:32.475Z'
+dateModified: '2016-01-17T13:48:30.459Z'
 title: "Case Study:\_MacLaren.com"
 author: []
 sourcePath: _posts/2016-01-16-case-study-maclarencom.md
