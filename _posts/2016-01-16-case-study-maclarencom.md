@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T19:19:22.420Z'
-dateModified: '2016-01-16T19:19:21.425Z'
+datePublished: '2016-01-17T13:32:27.070Z'
+dateModified: '2016-01-17T13:32:25.147Z'
 title: "Case Study:\_MacLaren.com"
 author: []
 sourcePath: _posts/2016-01-16-case-study-maclarencom.md
@@ -22,9 +22,8 @@ url: case-study-maclarencom/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c61b59f-aa8c-42fe-b993-363767c83caf.jpg)
-
 # Case Study: MacLaren.com
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c61b59f-aa8c-42fe-b993-363767c83caf.jpg)
 
 ## The challenge: 
 
