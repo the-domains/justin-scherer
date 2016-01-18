@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T20:53:17.967Z'
-dateModified: '2016-01-17T20:53:17.422Z'
+datePublished: '2016-01-17T20:55:46.156Z'
+dateModified: '2016-01-17T20:55:40.951Z'
 title: About Justin
 author: []
 sourcePath: _posts/2016-01-17-about-justin.md
@@ -22,7 +22,7 @@ url: about-justin/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4602c631-7ac9-4821-b3dc-73353131ee1d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6733e28c67f5f3ee733497e8e75daf7e51836c5c.jpg)
 
 # About Justin
 
@@ -32,11 +32,11 @@ I'm a designer in Toronto.
 
 Technology is best when its human. In my work, I'm usually trying to push that one of two ways:
 
-* Technology: a seamless aide for your every whim that works exactly the way you expect without getting in your way or making you think too hard
+Technology: a seamless aide for your every whim that works exactly the way you expect without getting in your way or making you think too hard
 
 OR
 
-* Technology: an instrument of cosmic awe and perception melting empowerment 
+Technology: an instrument of cosmic awe and perception melting empowerment 
 
 ## THE LIST, i.e. A (by no means exhaustive) directory of things I gladly do for money:
 
