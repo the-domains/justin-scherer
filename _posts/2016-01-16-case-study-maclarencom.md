@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T20:52:18.197Z'
-dateModified: '2016-01-17T20:52:12.732Z'
+datePublished: '2016-01-17T20:52:18.376Z'
+dateModified: '2016-01-17T20:52:17.727Z'
 title: "Case Study:\_MacLaren.com"
 author: []
 sourcePath: _posts/2016-01-16-case-study-maclarencom.md
