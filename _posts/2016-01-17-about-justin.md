@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T20:50:57.530Z'
-dateModified: '2016-01-17T20:50:53.109Z'
+datePublished: '2016-01-17T20:53:17.328Z'
+dateModified: '2016-01-17T20:53:05.714Z'
 title: About Justin
 author: []
 sourcePath: _posts/2016-01-17-about-justin.md
@@ -22,8 +22,9 @@ url: about-justin/index.html
 _type: Article
 
 ---
-# About Justin
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4602c631-7ac9-4821-b3dc-73353131ee1d.jpg)
+
+# About Justin
 
 I'm a designer in Toronto. 
 
