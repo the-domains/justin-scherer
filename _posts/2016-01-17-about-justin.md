@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T20:55:46.750Z'
-dateModified: '2016-01-17T20:55:46.248Z'
+datePublished: '2016-01-18T13:57:14.948Z'
+dateModified: '2016-01-18T13:57:09.853Z'
 title: About Justin
 author: []
 sourcePath: _posts/2016-01-17-about-justin.md
@@ -42,13 +42,19 @@ Technology: an instrument of cosmic awe and perception melting empowerment
 
 Any flavour of what people usually call "user experience design", including, but not limited to:
 
-* interaction design 
-* user interface design
-* information architecture
-* user experience strategy
-* user experience research
-* rapid prototyping
-* etc. etc. etc.
+interaction design 
+
+user interface design
+
+information architecture
+
+user experience strategy
+
+user experience research
+
+rapid prototyping
+
+etc. etc. etc.
 
 Workshop facilitation
 
