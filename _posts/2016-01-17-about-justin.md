@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T20:53:17.431Z'
-dateModified: '2016-01-17T20:53:05.714Z'
+datePublished: '2016-01-17T20:53:17.751Z'
+dateModified: '2016-01-17T20:53:17.328Z'
 title: About Justin
 author: []
 sourcePath: _posts/2016-01-17-about-justin.md
