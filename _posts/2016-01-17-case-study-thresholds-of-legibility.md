@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:33:18.374Z'
-dateModified: '2016-01-17T13:33:15.762Z'
+datePublished: '2016-01-18T21:56:02.597Z'
+dateModified: '2016-01-18T21:55:59.782Z'
 title: 'Case Study: Thresholds of Legibility'
 author: []
 sourcePath: _posts/2016-01-17-case-study-thresholds-of-legibility.md
@@ -36,26 +36,20 @@ According to the project's director:
 
 > The intent of this collaboration was to use the skills of performers and the craft of theatre to explore poorly understood aspects of life within the modern surveillance apparatus.
 
+## 
+
 ## The Process
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/322c3d2a-61be-4a89-a60c-17a9fa36131a.jpg)
-
-(photo from balcony)
 
 Our director, David J. Phillips, put together a multidisciplinary team of performers, dancers, researchers, designers and projectionists, and we worked together in the performance space over an intense, three week period to build a piece.
 
 I was way out of my comfort zone on this project. I was told to show up to rehearsal in "movement clothes" and we spent a good portion of the project's early days "playing" theatre games, as well as doing vocal and physical exercises. I added my own collaborative design methods to the mix (cognitive mapping, rapid prototyping, etc.). The blended methodology made it possible for collaborators with disparate backgrounds to work and play through a complex conceptual landscape and come to consensus on a final performance.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dbbc86a-9862-462c-9d32-96e96aef7589.png)
 
-(writing on floor)
-
 ## The Performance
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87a2f73b-1312-42ac-ab27-dd3cc4a2d096.png)
 
-(michael as a sensor)
-
 The theatre space was divided into different zones with sensor checkpoints at the entry and exit. Each zone contained its own micro-performance, each wildly different from the others, and the audience checked in and out of the zones as they moved through the performance. We wanted to use real-time data collection about the bodies of performers and participants and statistical cluster analysis to find outliers and single them out in a final "spectacle." The vagaries of live performance and the extremely short project lifespan meant that we had to "wizard of Oz" a lot of the statistical analysis in the end. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b438420-8c87-49a5-ab0d-b2198c6f9bc2.png)
-
-(Spectacle)
 
 You can read more about the piece's conceptual grounding, an analysis of its strengths and weaknesses, and reflections on its implications as research in David's article about the project [here][0]. 
 
