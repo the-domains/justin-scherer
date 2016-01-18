@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T13:43:59.858Z'
-dateModified: '2016-01-17T13:43:43.696Z'
+datePublished: '2016-01-17T20:48:10.032Z'
+dateModified: '2016-01-17T16:58:52.804Z'
 title: A note about this site
 author: []
+sourcePath: _posts/2016-01-17-a-note-about-this-site.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-17-a-note-about-this-site.md
-published: true
 url: a-note-about-this-site/index.html
 _type: Article
 
