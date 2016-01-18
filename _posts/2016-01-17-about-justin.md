@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T20:55:46.250Z'
+datePublished: '2016-01-17T20:55:46.248Z'
 dateModified: '2016-01-17T20:55:40.951Z'
 title: About Justin
 author: []
