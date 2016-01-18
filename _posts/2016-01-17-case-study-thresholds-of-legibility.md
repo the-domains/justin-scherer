@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T21:56:02.597Z'
+datePublished: '2016-01-18T21:56:02.742Z'
 dateModified: '2016-01-18T21:55:59.782Z'
 title: 'Case Study: Thresholds of Legibility'
 author: []
