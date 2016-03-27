@@ -4,14 +4,14 @@
         <description><![CDATA[Justin Scherer]]></description>
         <link>http://justinscherer.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 01:51:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 01:58:35 GMT</lastBuildDate>
         <atom:link href="http://justinscherer.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Case Studies]]></title>
             <description><![CDATA[<article><h1>Case Studies</h1><p>MacLaren.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/461312d7-4b23-4299-8cda-2113aa96cf50.png"></article>]]></description>
             <link>http://justinscherer.xyz/case-studies/index.html</link>
             <guid isPermaLink="false">ef6b0253-f537-4208-8791-c3b03e6d68ba</guid>
-            <pubDate>Sun, 27 Mar 2016 01:50:43 GMT</pubDate>
+            <pubDate>Sun, 27 Mar 2016 01:57:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Case Study: Territory Circulations no. 1: You had me at hello world]]></title>
@@ -43,10 +43,10 @@
         </item>
         <item>
             <title><![CDATA[Case Study: Thresholds of Legibility]]></title>
-            <description><![CDATA[<article><h1></h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75b6fa755ec47220f130a1a3c741b863d1355866.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Case Study: Thresholds of Legibility</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75b6fa755ec47220f130a1a3c741b863d1355866.jpg"></article>]]></description>
             <link>http://justinscherer.xyz/case-study-thresholds-of-legibility/index.html</link>
             <guid isPermaLink="false">6c43321c-0ac0-4509-8454-48eb7c801f6d</guid>
-            <pubDate>Mon, 18 Jan 2016 21:56:02 GMT</pubDate>
+            <pubDate>Sun, 27 Mar 2016 01:50:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
