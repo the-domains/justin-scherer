@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: MacLaren.com
-datePublished: '2016-03-27T01:57:42.024Z'
-dateModified: '2016-03-27T01:57:09.259Z'
+datePublished: '2016-03-27T02:03:49.901Z'
+dateModified: '2016-03-27T01:57:48.449Z'
 title: Case Studies
 author: []
 sourcePath: _posts/2016-03-26-case-studies.md
