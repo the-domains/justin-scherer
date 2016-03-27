@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: MacLaren.com
-datePublished: '2016-03-26T16:32:00.776Z'
-dateModified: '2016-03-26T16:31:13.650Z'
+datePublished: '2016-03-27T01:50:43.431Z'
+dateModified: '2016-03-27T01:49:11.603Z'
 title: Case Studies
 author: []
+sourcePath: _posts/2016-03-26-case-studies.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-case-studies.md
-published: true
 url: case-studies/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Case Studies
