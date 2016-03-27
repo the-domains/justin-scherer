@@ -1,7 +1,7 @@
 name: Justin Scherer
 favicon: null
-layout_spectrum: 0.74864
-typography_spectrum: 0.18593
+layout_spectrum: 1
+typography_spectrum: 0.17504
 title: Justin Scherer
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#844886'
   brandStrength: 0
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
