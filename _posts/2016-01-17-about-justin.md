@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-18T13:57:14.948Z'
-dateModified: '2016-01-18T13:57:09.853Z'
+description: "I'm a designer in Toronto.\_"
+datePublished: '2016-03-27T01:50:38.618Z'
+dateModified: '2016-03-27T01:50:22.725Z'
 title: About Justin
 author: []
 sourcePath: _posts/2016-01-17-about-justin.md
@@ -58,11 +58,11 @@ etc. etc. etc.
 
 Workshop facilitation
 
-Creative consulting, i.e. giving you, the client, big, holistic ideas
+Creative consulting
 
 Generative art and design, i.e. writing code to build things so I don't have to
 
-Creative technology, i.e. making wacky, digital things with Processing and/or Arduino
+Creative technology
 
 Branding
 
