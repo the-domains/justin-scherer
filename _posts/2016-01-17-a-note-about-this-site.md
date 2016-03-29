@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-17T20:48:10.032Z'
-dateModified: '2016-01-17T16:58:52.804Z'
+description: "This site is built by\_The Grid, a platform that uses \"artificial intelligence\" algorithms to procedurally design and build websites. Right now the Grid is in beta. If the layouts, colours, type, rendering, etc. look a little janky, blame the robots. I didn't do it.\_"
+datePublished: '2016-03-29T23:21:24.679Z'
+dateModified: '2016-03-29T23:21:19.909Z'
 title: A note about this site
 author: []
 sourcePath: _posts/2016-01-17-a-note-about-this-site.md
