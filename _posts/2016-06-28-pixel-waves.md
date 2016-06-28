@@ -11,8 +11,8 @@ description: >-
   limits. Taken individually, each cell in an animation repeats a series of
   simple transformations. Together, unexpected patterns emerge, morph, and give
   the cells complexity and meaning as a larger collective. 
-datePublished: '2016-06-28T01:57:24.891Z'
-dateModified: '2016-06-28T01:56:58.834Z'
+datePublished: '2016-06-28T02:01:08.178Z'
+dateModified: '2016-06-28T01:57:34.170Z'
 title: Pixel Waves
 author: []
 sourcePath: _posts/2016-06-28-pixel-waves.md
@@ -31,7 +31,8 @@ Pixel Waves is a series of three continuously looping, procedural animations usi
 
 Pixel Waves was chosen for the exhibition _Earth, Sea, and Sky_ at the OCAD U Continuing Studies Gallery in Toronto. The show runs from July 7th till September 8th 2016\. __
 
-You can view and download the project in this Dropbox folder. 
+You can view and download the project in [this Dropbox folder][2]. 
 
 [0]: https://processing.org/
 [1]: http://www.hypeframework.org/
+[2]: https://www.dropbox.com/s/iqeyxrnfiyaisxv/PixelWavesCompiled.mov?dl=0
