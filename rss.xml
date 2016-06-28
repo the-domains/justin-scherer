@@ -4,8 +4,29 @@
         <description><![CDATA[Justin Scherer]]></description>
         <link>http://justinscherer.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 23:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 01:36:45 GMT</lastBuildDate>
         <atom:link href="http://justinscherer.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pixel Waves]]></title>
+            <description><![CDATA[<article><h1>Pixel Waves</h1><p>Pixel Waves is a series of three continuously looping, procedural animations using Processing and HYPE Framework. The animations explore the push and pull of tides using grids of monochromatic dots that oscillate between randomized limits. Taken individually, each cell in an animation repeats a series of simple transformations. Together, unexpected patterns emerge, morph, and give the cells complexity and meaning as a larger collective. </p></article>]]></description>
+            <link>http://justinscherer.xyz/pixel-waves/index.html</link>
+            <guid isPermaLink="false">5cf46cee-46d7-432e-ace4-6e41c9ec1a9d</guid>
+            <pubDate>Tue, 28 Jun 2016 01:36:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A note about this site]]></title>
+            <description><![CDATA[<article><h1>A note about this site</h1><p>This site is built by The Grid, a platform that uses "artificial intelligence" algorithms to procedurally design and build websites. Right now the Grid is in beta. If the layouts, colours, type, rendering, etc. look a little janky, blame the robots. I didn't do it. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b2496642b54b285139feddfd62cc9c94ea51f2f.jpg"></article>]]></description>
+            <link>http://justinscherer.xyz/a-note-about-this-site/index.html</link>
+            <guid isPermaLink="false">e35974d8-607d-4418-8423-7e9a825ceef4</guid>
+            <pubDate>Tue, 29 Mar 2016 23:21:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Case Study: Territory Circulations no. 1: You had me at hello world]]></title>
+            <description><![CDATA[<article><h1>Case Study: Territory Circulations no. 1: You had me at hello world</h1><p>The concept worked with the circulations of information, energy, bodies across massive territories, collapsed and mediated by technology. Our goal was to create a loop. The audience could control an animated conductor through Twitter, which would influence the performers, who would play to the audience, who would then react via Twitter to influence the musicians, and so on and so on. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02e376babe12a956f5eae655d2b0f6843240e92f.gif"></article>]]></description>
+            <link>http://justinscherer.xyz/case-study-territory-circulations-no-1-you-had-me-at-hell/index.html</link>
+            <guid isPermaLink="false">29ca10bf-e6be-40f4-a4b1-dfd4c360dee1</guid>
+            <pubDate>Sun, 27 Mar 2016 02:07:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Case Studies]]></title>
             <description><![CDATA[<article><h1>Case Studies</h1><p>MacLaren.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/461312d7-4b23-4299-8cda-2113aa96cf50.png"></article>]]></description>
@@ -14,11 +35,11 @@
             <pubDate>Sun, 27 Mar 2016 02:04:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Case Study: Territory Circulations no. 1: You had me at hello world]]></title>
-            <description><![CDATA[<article><h1>Case Study: Territory Circulations no. 1: You had me at hello world</h1><p>The concept worked with the circulations of information, energy, bodies across massive territories, collapsed and mediated by technology. Our goal was to create a loop. The audience could control an animated conductor through Twitter, which would influence the performers, who would play to the audience, who would then react via Twitter to influence the musicians, and so on and so on. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02e376babe12a956f5eae655d2b0f6843240e92f.gif"></article>]]></description>
-            <link>http://justinscherer.xyz/case-study-territory-circulations-no-1-you-had-me-at-hell/index.html</link>
-            <guid isPermaLink="false">29ca10bf-e6be-40f4-a4b1-dfd4c360dee1</guid>
-            <pubDate>Sun, 27 Mar 2016 02:07:00 GMT</pubDate>
+            <title><![CDATA[Case Study: Thresholds of Legibility]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75b6fa755ec47220f130a1a3c741b863d1355866.jpg" alt="" title="">]]></description>
+            <link>http://justinscherer.xyz/case-study-thresholds-of-legibility/index.html</link>
+            <guid isPermaLink="false">6c43321c-0ac0-4509-8454-48eb7c801f6d</guid>
+            <pubDate>Sun, 27 Mar 2016 01:50:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About Justin]]></title>
@@ -33,20 +54,6 @@
             <link>http://justinscherer.xyz/case-study-maclarencom/index.html</link>
             <guid isPermaLink="false">68e1c895-27c8-45ff-8161-34a8f54ac882</guid>
             <pubDate>Mon, 18 Jan 2016 21:56:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A note about this site]]></title>
-            <description><![CDATA[<article><h1>A note about this site</h1><p>This site is built by The Grid, a platform that uses "artificial intelligence" algorithms to procedurally design and build websites. Right now the Grid is in beta. If the layouts, colours, type, rendering, etc. look a little janky, blame the robots. I didn't do it. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5936064187d4a49e6b8e49fa0ee69c4afe72dafc.jpg"></article>]]></description>
-            <link>http://justinscherer.xyz/a-note-about-this-site/index.html</link>
-            <guid isPermaLink="false">e35974d8-607d-4418-8423-7e9a825ceef4</guid>
-            <pubDate>Tue, 29 Mar 2016 23:21:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Case Study: Thresholds of Legibility]]></title>
-            <description><![CDATA[<article><h1>Case Study: Thresholds of Legibility</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75b6fa755ec47220f130a1a3c741b863d1355866.jpg"></article>]]></description>
-            <link>http://justinscherer.xyz/case-study-thresholds-of-legibility/index.html</link>
-            <guid isPermaLink="false">6c43321c-0ac0-4509-8454-48eb7c801f6d</guid>
-            <pubDate>Sun, 27 Mar 2016 01:50:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
